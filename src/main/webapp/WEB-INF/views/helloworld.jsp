@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Spring 5 MVC - Hello World Example | javaguides.net</title>
+<title>Hello World!</title>
 </head>
 <body>
-	<h2>${helloWorld.message}</h2>
-	<h4>Server date time is : ${helloWorld.dateTime}</h4>
+	<h2>Hello World!</h2>
+	<h1>Give em Shell</h1>
 </body>
 </html>
