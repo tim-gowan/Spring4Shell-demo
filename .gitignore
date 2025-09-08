@@ -1,2 +1,42 @@
 /target/
 /bin/
+# Byte-compiled / optimized / pre-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+.history/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# My stuff
+
+
+# Environment variables
+.env
+.env 
